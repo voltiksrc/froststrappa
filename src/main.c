@@ -11,7 +11,7 @@
 #define FROSTSTRAPPA_VERSION "0.1.0"
 
 void help(void) {
-    puts("froststrappa - Crypt Linux bootstrapper");
+    puts("froststrappa - Trident Linux bootstrapper");
     putchar('\n');
     puts("usage: froststrappa <target_root> [packages...]");
     puts("Options:");
