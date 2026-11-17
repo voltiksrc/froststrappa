@@ -1,8 +1,8 @@
 # froststrappa
 
-A small bootstrap utility for Trident Linux, written in C.
+A small bootstrap utility for Leaf Linux, written in C.
 
-froststrappa aims to install a minimal Trident system onto a mounted filesystem, using Synnical for package management.
+froststrappa aims to install a minimal leaf system onto a mounted filesystem, using hika for package management.
 
 ## Building
 
@@ -24,4 +24,4 @@ Early development. Not ready for actual system installations.
 
 ## License
 
-froststrappa is licensed under the MIT License. See the LICENSE file for details.
+froststrappa is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
